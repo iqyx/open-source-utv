@@ -17,7 +17,8 @@ Eventually the first came true and I am starting considering actually building *
   usually optimized for this purpose.
 - on the other hand, a lot of mowing and mulching work need to be done
 - to bootstrap an offgrid dwelling I need to move a lot of stuff to locations where conventional cars can't get
-- most of the work is done during the summer
+  until a suitable road is built. Then it needs to be serviced continuously.
+- most of the work is done during the summer, however some snow plowing has to be done during winter
 - as an offgrider I am (and probably will be) living on a hillside or in a mountaineous region
 
 As a result, a special UTV (utility task/terrain vehicle) is much better suited for my needs.
@@ -49,3 +50,11 @@ This repository will contain sources to build/assemble an UTV capable of:
 - optional trailer power delivery and brakes
 - optional cab
 - optional full remote control
+- optional front loader
+
+
+Components
+======================
+
+Some parts of the UTV are contained in their respective repositories because of their complexity
+or possibility to be reused in other projects.
